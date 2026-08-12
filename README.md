@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JARVIS V.50.0</title>
+</head>
+<body>
+    <h1>🤖 JARVIS V.50.0</h1>
+    <p>System Online</p>
+</body>
+</html>
 ```html
 <!DOCTYPE html>
 <html lang="en">
